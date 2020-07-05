@@ -1,0 +1,2 @@
+hi i am a new file created for the GIT repository practice from UBUNTu using gedit
+
